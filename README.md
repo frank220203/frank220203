@@ -3,7 +3,7 @@
 ![springboot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ## DB
-![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![mariaDB](https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![bigquery](https://img.shields.io/badge/google%20Bigquery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
 
 ## Front
