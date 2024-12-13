@@ -1,18 +1,18 @@
 ## Language & Framework
-![springboot(Java)](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![FastAPI(Python)](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SpringBoot(Java)](https://img.shields.io/badge/SpringBoot(Java)-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI(Python)](https://img.shields.io/badge/FastAPI(Python)-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## DB
-![mariaDB](https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/Mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![bigquery](https://img.shields.io/badge/google%20Bigquery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
 
 ## Front
-![vue](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![looker](https://img.shields.io/badge/looker-4285F4?style=for-the-badge&logo=looker&logoColor=black)
+![vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=black)
 
 ## ETC
-![jira](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+![jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![gcp](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 <!--
