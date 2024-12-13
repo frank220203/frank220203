@@ -1,6 +1,6 @@
 ## Language & Framework
 ![SpringBoot(Java)](https://img.shields.io/badge/SpringBoot(Java)-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![FastAPI(Python)](https://img.shields.io/badge/FastAPI(Python)-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI(Python)](https://img.shields.io/badge/FastAPI(Python)-#009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ## DB
 ![MariaDB](https://img.shields.io/badge/Mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white)
